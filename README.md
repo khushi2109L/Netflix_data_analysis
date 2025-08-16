@@ -1,10 +1,10 @@
-**Overview**
+🔍**Overview**
 
 In this project, I analyzed a Netflix dataset using Python to find interesting insights about the types of content available on the platform like how many movies vs. TV shows there are, 
 which countries produce the most content, and what kind of content is most common.
 I used tools like Pandas, Matplotlib, and Seaborn to clean the data, explore it, and visualize trends.
 
-**Dataset**
+📁**Dataset**
 
 **Source**: [Kaggle – Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows)
 Contains over 6,000 titles
@@ -17,14 +17,14 @@ Includes details like:
 -Genre (listed_in)
 -Description, etc.
 
-**Tools I Used**
+🛠**Tools I Used**
 
 -Python – programming
 -Pandas – for handling data
 -Matplotlib & Seaborn – for charts/graphs
 -Jupyter Notebook – to run the analysis step by step
 
-**Questions I Answered**
+📌**Questions I Answered**
 
 Here are some of the things I looked into:
 -Are there more Movies or TV Shows on Netflix?
@@ -32,7 +32,7 @@ Here are some of the things I looked into:
 -Which countries have the most Netflix content?
 -What are the most common ratings (like PG, TV-MA, etc.)?
 
-**What I Found**
+📈**What I Found**
 
 -Movies make up the majority of Netflix content.
 -Most content was added around 2018–2020.
@@ -40,8 +40,11 @@ Here are some of the things I looked into:
 -TV-MA is the most common rating.
 -There’s a wide variety of genres, but International Movies Drama and Comedies are very common.
 
-**About Me**
+📌 What’s Next / Improvements
 
-Shreya Srivastava
-GitHub:[khushi2109L](https://github.com/khushi2109L)
+-Create an interactive dashboard using tools like Streamlit
+-Analyze the content descriptions using text analysis
+-Compare Netflix content with other platforms like Amazon Prime or Disney+
+
+
 
